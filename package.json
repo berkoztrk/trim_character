@@ -1,0 +1,29 @@
+{
+  "name": "@berkozturk/trim_character",
+  "version": "1.0.0",
+  "description": "Trim a specific character from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkoztrk/trim_character.git"
+  },
+  "keywords": [
+    "trim",
+    "string",
+    "character",
+    "char",
+    "specific"
+  ],
+  "author": "Berk Öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkoztrk/trim_character/issues"
+  },
+  "homepage": "https://github.com/berkoztrk/trim_character#readme"
+}
