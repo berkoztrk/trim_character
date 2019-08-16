@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Trim a specific character from string",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "publishConfig": {
     "access": "public"
   },
