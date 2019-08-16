@@ -4,7 +4,6 @@
   "description": "Trim a specific character from string",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
     "access": "public"
